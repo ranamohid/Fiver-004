@@ -45,10 +45,6 @@
             "contents": [
                 {
                     "type": "media",
-                    "id": 35201
-                },
-                {
-                    "type": "media",
                     "id": 352011
                 },
                 {
@@ -1278,26 +1274,12 @@
     ],
     "media": [
         {
-            "id": 35201,
-            "title": "",
-            "pubDate": "",
-            "thumbURL": "",
-            "imgURL": "",
-            "videoURL": "",
-            "type": "",
-            "subtitlesURL": "",
-            "categories": [
-                ""
-            ],
-            "description": ""
-        },
-        {
             "id": 352011,
             "title": "Saturday 5:00 p.m. Service",
             "pubDate": "",
             "thumbURL": "https://s3-us-west-2.amazonaws.com/mf-web/_images/org_715_1575763335.jpg",
             "imgURL": "https://s3-us-west-2.amazonaws.com/mf-web/_images/org_715_1575763335.jpg",
-            "videoURL": "https://playback-oregon.mediafusionapp.com/plat/_definst_/ngrp:Live_1_1@707829_all/playlist.m3u8",
+            "videoURL": "https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@707830_all/playlist.m3u8||http://files.mediafusionapp.com/MFAccount_772/techDifficulties.mp4 " ,
             "type": "video",
             "subtitlesURL": "",
             "categories": [
